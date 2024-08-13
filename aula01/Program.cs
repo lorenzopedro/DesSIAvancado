@@ -14,5 +14,6 @@ public class Program{
         Pessoa pessoa1 = new Pessoa(nomePessoa, idadePessoa);
 
         Console.WriteLine(pessoa1.ToString());
+        Console.WriteLine("FIM");
     }
 }
